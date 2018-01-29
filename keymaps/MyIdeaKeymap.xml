@@ -2,7 +2,16 @@
   <action id="CodeCompletion">
     <keyboard-shortcut first-keystroke="alt slash" />
   </action>
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="ctrl f12" />
+    <keyboard-shortcut first-keystroke="alt p" />
+  </action>
+  <action id="FindUsages">
+    <keyboard-shortcut first-keystroke="alt f7" />
+    <keyboard-shortcut first-keystroke="alt u" />
+  </action>
   <action id="HippieCompletion" />
+  <action id="MethodOverloadSwitchUp" />
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="ctrl alt r" />
   </action>
