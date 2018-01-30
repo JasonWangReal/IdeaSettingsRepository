@@ -2,6 +2,7 @@
   <action id="CodeCompletion">
     <keyboard-shortcut first-keystroke="alt slash" />
   </action>
+  <action id="ExportToTextFile" />
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="ctrl f12" />
     <keyboard-shortcut first-keystroke="alt p" />
@@ -10,8 +11,20 @@
     <keyboard-shortcut first-keystroke="alt f7" />
     <keyboard-shortcut first-keystroke="alt u" />
   </action>
+  <action id="GuiDesigner.CreateListener">
+    <keyboard-shortcut first-keystroke="alt o" />
+  </action>
   <action id="HippieCompletion" />
+  <action id="MethodHierarchy.OverrideMethodAction">
+    <keyboard-shortcut first-keystroke="alt o" />
+  </action>
   <action id="MethodOverloadSwitchUp" />
+  <action id="OpenFile">
+    <keyboard-shortcut first-keystroke="ctrl o" />
+  </action>
+  <action id="OverrideMethods">
+    <keyboard-shortcut first-keystroke="alt o" />
+  </action>
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="ctrl alt r" />
   </action>
