@@ -11,6 +11,9 @@
     <keyboard-shortcut first-keystroke="alt f7" />
     <keyboard-shortcut first-keystroke="alt u" />
   </action>
+  <action id="GenerateJavadoc">
+    <keyboard-shortcut first-keystroke="alt d" />
+  </action>
   <action id="GuiDesigner.CreateListener">
     <keyboard-shortcut first-keystroke="alt o" />
   </action>
